@@ -2,12 +2,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrnonny&show_icons=true&theme=merko" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrnonny&layout=compact&langs_count=8" />
 </a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engrnonny&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrnonny&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=engrnonny&repo=Anotech)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=engrnonny&repo=Anotech" />
+</a>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=engrnonny&repo=nessa)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **engrnonny/engrnonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
