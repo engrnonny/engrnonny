@@ -13,7 +13,12 @@ Hi there 👋
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' alt="bootstrap" width="40" height="40"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg' alt="bootstrap" width="40" height="40"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg' alt="bootstrap" width="40" height="40"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg' alt="bootstrap" width="40" height="40"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg' alt="bootstrap" width="40" height="40"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg' alt="bootstrap" width="40" height="40"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg' alt="bootstrap" width="40" height="40"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
