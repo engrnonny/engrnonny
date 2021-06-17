@@ -4,7 +4,7 @@ Hi there 👋
 <a href="https://github.com/engrnonny">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrnonny&show_icons=true&theme=merko" />
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1">
 <!--
 <a href="https://github.com/engrnonny">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrnonny&layout=compact&langs_count=8" />
