@@ -6,16 +6,7 @@
 -->
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/engrnonny/engrnonny"/> 
- <img src="https://badges.pufler.dev/years/engrnonny"/>
- <img src="https://badges.pufler.dev/repos/engrnonny"/>
- <img src="https://badges.pufler.dev/commits/monthly/engrnonny" />
-
-</p>
-
-<p align="center">
- 
-- 🔭 I’m currently working on an api that would move much of my company's office activites online so workers can work remotely. I am doing this using Ruby on Rails.
+- 🔭 I’m currently working on an API that would move much of my company's office activites online so workers can work remotely. I am doing this using Ruby on Rails.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on an NGO project that helps humanity, especially the less privileged.
 - 🤔 I’m looking for help with getting more knowledge in web programming.
@@ -42,6 +33,15 @@
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=engrnonny&theme=redical">
+</p>
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/engrnonny/engrnonny"/> 
+ <img src="https://badges.pufler.dev/years/engrnonny"/>
+ <img src="https://badges.pufler.dev/repos/engrnonny"/>
+ <img src="https://badges.pufler.dev/commits/monthly/engrnonny" />
+
 </p>
 
 <h2><span align="left">Languages</span>   -   <span align="right">Frameworks</span></h2>
