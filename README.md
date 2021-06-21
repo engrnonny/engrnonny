@@ -16,7 +16,7 @@ Hi there 👋
 </a>
 -->
 
-<h3><span align="left">Languages</span>      <span align="right">Frameworks</span></h3>
+<h2><span align="left">Languages</span>   -   <span align="right">Frameworks</span></h2>
 <p>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
