@@ -1,6 +1,6 @@
 Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrnonny&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green" />
 
 <a href="https://github.com/engrnonny">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrnonny&show_icons=true&theme=merko" />
