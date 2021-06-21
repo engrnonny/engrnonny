@@ -1,7 +1,6 @@
 Hi there 👋
 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrnonny" />
+<img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png" />
 
 <a href="https://github.com/engrnonny">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrnonny&show_icons=true&theme=merko" />
