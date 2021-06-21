@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <h2 align="left">About Me</h2>
 
