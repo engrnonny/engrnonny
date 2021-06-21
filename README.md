@@ -16,6 +16,9 @@ Hi there 👋
 </a>
 -->
 
+<h3>Languages</h3>      <h3>Frameworks</h3>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg' alt="bootstrap" width="50" height="50"/>
