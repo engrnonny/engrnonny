@@ -9,6 +9,7 @@ Hi there 👋
 
 <a href="https://github.com/engrnonny">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrnonny&layout=compact&langs_count=8" />
+ </a>
   
 <!--
 <a href="https://github.com/engrnonny">
