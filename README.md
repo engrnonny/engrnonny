@@ -1,11 +1,12 @@
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
 <h2 align="left">About Me</h2>
 
 <p align="center">
  
 </p align="center">
-<!--
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
--->
+
 <p align="center">
  
 - 🔭 I’m currently working on an API that would move much of my company's office activites online so workers can work remotely. I am doing this using Ruby on Rails.
