@@ -1,6 +1,8 @@
 Hi there 👋
 
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrnonny" />
+
 <a href="https://github.com/engrnonny">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrnonny&show_icons=true&theme=merko" />
 </a>
