@@ -17,13 +17,11 @@
 - ⚡ Fun fact: Civil Engineering is my professional qualification, Building Designing is my talent, Hustling is my means of livelihood, QA/QC and Design Engineering is my current job, Programming is my hobby.
 </p>  
 
-
+<br>
 
 <h2 align="left">
   My Github Stats
 </h2>
- 
-<br>
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=engrnonny&show_icons=true&theme=radical&line_height=27">
@@ -46,6 +44,8 @@
  <img src="https://badges.pufler.dev/commits/monthly/engrnonny" />
 
 </p>
+
+<br>
 
 <h2><span align="left">Languages</span>   -   <span align="right">Frameworks</span></h2>
 <p>
@@ -70,13 +70,35 @@
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+<br>
+
 <h2 align="left">Design Tools</h2>
 <p>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<div> </div>
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+<h2 align="left">Projects</h2>
+
+ <ol>
+   <li>
+    <h4><a href="https://www.ichiba.ng" target="_blank">Ichiba Online Stores</a></h4>
+    <p>Full-stack web development</P>
+    <p>
+      <ul>
+       <li>LANGUAGES - HTML5, CSS3, JavaScript, Python</li>
+       <li>FRAMEWORKS/LIBRARIES - Django, Bootstrap</li>
+       <li>HOST - Pythonanywhere</li>
+      </ul>
+     </p>
+    </li>
+  </ol>
+
+<br>
+
+<h2 align="left">Connect with me:</h2>
+
 <p align="left">
 <!--
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
